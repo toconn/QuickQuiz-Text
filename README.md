@@ -31,7 +31,8 @@ The format of the text file is simple. A blank line indicates the split between 
 
 Example:
 
-```Card 1 Title
+```
+Card 1 Title
 This is the description that will be displayed for the first card.
 
 Card 2 Title
