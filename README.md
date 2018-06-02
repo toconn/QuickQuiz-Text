@@ -5,7 +5,7 @@ QuickQuiz is a simple to use text based flash card program. It's job is to get y
 
 ## Why?
 
-Why yet another flash card program? Because I just want to take bloody my notes and start studying. No fussing about with accounts, no awkward data entry screens, no confusing UIs! Just get on with it! And I want to do this where my notes are... on my computer!
+Why yet another flash card program? Because I just want to take my bloody notes and start studying. No fussing about with accounts, no awkward data entry screens, no confusing UIs! Just get on with it! And I want to do this where my notes are... on my computer!
 
 There may be an app out there that gets it right. But if there is, I haven't found it. Most flash card apps are awkward and cumbersome to use. From complicated UIs to slow data entry screens, they just get in the way. Some apps do allow you to enter cards through excel files or word documents but they usually have some other major problem. Others have reasonably good data entry screens but then they hamstring you by requiring you to create an account on some website. Some only work online or on your phone.
 
